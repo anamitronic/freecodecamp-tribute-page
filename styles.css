@@ -73,7 +73,7 @@ p {
 }
 
 #tribute-info {
-    margin: 4em auto;
+    margin: 4em auto 0 auto;
     max-width: 600px;
 }
 
@@ -86,5 +86,5 @@ ul li {
 }
 
 #redir {
-    margin: 2em 0;
+    margin: 10em 0 0 0;
 }
