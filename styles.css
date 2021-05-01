@@ -83,6 +83,7 @@ p {
 
 ul li {
     margin: 2em 0;
+    text-align: left;
 }
 
 #redir {
