@@ -1,0 +1,90 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+body {
+    background-color: #161b22;
+    color: #c9d1d9;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Open Sans', sans serif;
+}
+
+#title {
+    padding: 2em;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 800;
+}
+
+h2 {
+    margin-top: 1em;
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+#img-div {
+    padding: 2em;
+    max-width: 90%;
+    max-width: 800px;
+    margin: 2em auto;
+    background-color: #161b22;
+    border-radius: 1.5em;
+}
+
+img {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    margin: 2em auto;
+    border-radius: 1em;
+}
+
+#img-caption {
+    margin: 1em auto;
+    font-weight: 600;
+}
+
+#main {
+    background-color: #0d1117;
+    width: 100%;
+    margin: 2em;
+    padding: 2em;
+    border-radius: 1em;
+}
+
+p {
+    padding: 1em;
+}
+
+#tribute-info {
+    margin: 4em auto;
+    max-width: 600px;
+}
+
+#timeline {
+    text-align: left;
+}
+
+ul li {
+    margin: 2em 0;
+}
+
+#redir {
+    margin: 2em 0;
+}
