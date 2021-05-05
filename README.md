@@ -1,1 +1,1 @@
-# zigzagoog.github.io/freecodecamp-tribute-page
+# https://zigzagoog.github.io/freecodecamp-tribute-page
